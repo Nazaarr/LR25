@@ -14,10 +14,6 @@
 
 Рисунок 25.2 - Окно Scene  
 
-![РИСУНОК](https://gspics.org/images/2022/12/03/0XeJJQ.png)  
-
-Рисунок 25.3 - Окно Menu 
-
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XeMIR.png)  
 
 Рисунок 25.4 - Окно Game 
