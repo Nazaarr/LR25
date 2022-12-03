@@ -16,8 +16,8 @@
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XeMIR.png)  
 
-Рисунок 25.4 - Окно Game 
+Рисунок 25.3 - Окно Game 
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XeUPj.png)  
 
-Рисунок 25.5 - Окно Inspector объекта Ball  
+Рисунок 25.4 - Окно Inspector объекта Ball  
